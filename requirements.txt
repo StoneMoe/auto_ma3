@@ -1,0 +1,7 @@
+numpy==1.14.2
+opencv-python==3.4.0.12
+Pillow==5.1.0
+pyobjc-core==4.2.1
+pyobjc-framework-Cocoa==4.2.1
+pyobjc-framework-Quartz==4.2.1
+PyUserInput==0.1.11
